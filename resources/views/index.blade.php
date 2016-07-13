@@ -62,14 +62,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li><a href="#" data-toggle="modal" data-target="#myModal4">Login</a></li>
 				</ul>
 			</div>
-		</div>
+		</div>-->
 		<div class="header_left">
 			<ul class="fb_icons">
-				<li><a class="fb" href="#"></a></li>
-				<li><a class="twit" href="#"></a></li>
-				<li><a class="goog" href="#"></a></li>
+				<li><a class="fb" href="https://www.facebook.com/suscerte"></a></li>
+				<li><a class="twit" href="https://twitter.com/suscerte"></a></li>
+				<!--<li><a class="goog" href="#"></a></li>
 				<li><a class="pin" href="#"></a></li>
-				<li><a class="drib" href="#"></a></li>
+				<li><a class="drib" href="#"></a></li>-->
 			</ul>
 		</div>
 		<div class="clearfix"></div>
@@ -90,7 +90,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				  </button>
 					<div class="logo grid">
 						<div class="grid__item color-3">
-							<h1><a href=""><img src="{{asset('images/logosuscerte.png')}}" alt=" " width="100" height="100" /></a></h1>
+							<h1><a href=""><img src="{{asset('images/logosuscerte.png')}}" alt=" " width="300" height="300" align="center" /></a></h1>
 						</div>
 					</div>
 				</div>
@@ -104,6 +104,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<li><a data-hover="Servicios" href="#services" class="scroll">Servicios</a></li>
 								<li><a data-hover="Noticias" href="#gallery" class="scroll"> Noticias</a></li>
 								<li><a data-hover="Contactos" href="#contact" class="scroll">Contactos</a></li>
+								<li><a data-hover="Correo" href="https://correo.suscerte.gob.ve/">Correo</a></li>
 						</ul>
 					</nav>
 					<div class="search">
@@ -179,42 +180,42 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-5 about_left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0s">
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/q1.JPG')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/q1.JPG')}}" class="swipebox"><img src="{{asset('images/q1.JPG')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-education icon" aria-hidden="true"></span>
-						</div>
-						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						</div>-->
+						<!--<h4 class="mission">Design</h4>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/2.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/2.jpg')}}" class="swipebox"><img src="{{asset('images/2.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-heart icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/55.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/55.jpg')}}" class="swipebox"><img src="{{asset('images/55.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-home icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/6.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/6.jpg')}}" class="swipebox"><img src="{{asset('images/6.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-star icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -227,7 +228,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 Es el organismo encargado de coordinar e implementar el modelo jerárquico de la infraestructura Nacional de Certificación Electrónica, también acredita, supervisa y controla a los Proveedores de Servicios de Certificación (PSC) y es el ente responsable de la Autoridad de Certificación Raíz del Estado Venezolano. Así mismo tiene como alcance proveer estándares y herramientas para implementar una tecnología de información óptima en las empresas del sector público, a fin de obtener un mejor funcionamiento y proporcionar niveles de seguridad </h5>
 
 					<!--<div class="progress-gds">
-						<h5>Doloremque / 60%</h5>
+						<h5>Doloremque / 60%</h5>												
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
 
@@ -258,42 +259,42 @@ Es el organismo encargado de coordinar e implementar el modelo jerárquico de la
 			<div class="col-md-5 about_left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0s">
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/66.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/66.jpg')}}" class="swipebox"><img src="{{asset('images/66.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-education icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/7.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/7.jpg')}}" class="swipebox"><img src="{{asset('images/7.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-heart icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/5.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/5.jpg')}}" class="swipebox"><img src="{{asset('images/5.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-home icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/pic1.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/pic1.jpg')}}" class="swipebox"><img src="{{asset('images/pic1.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-star icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -361,22 +362,22 @@ Es el organismo encargado de coordinar e implementar el modelo jerárquico de la
 				</div>
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/8.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/8.jpg')}}" class="swipebox"><img src="{{asset('images/8.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-home icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/9.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/9.jpg')}}" class="swipebox"><img src="{{asset('images/9.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-star icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -442,47 +443,155 @@ Es el organismo encargado de coordinar e implementar el modelo jerárquico de la
 </div>
 <div id="about" class="banner-bottom">
 	<div class="container">
-		<h3 class="title">Resposabilidad Social<span></span></h3>
+		<h3 class="title">Organigrama</span></h3>
 		<div class="adt_grids">
 			<div class="col-md-5 about_left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0s">
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/1_1.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/organigrama.png')}}" class="swipebox"><img align="middle" src="{{asset('images/organigrama.png')}}" width="935" height="645"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-education icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
-					<div class="bott-img">
-					<img src="{{asset('images/2_1.jpg')}}" width="163" height="200">
+					<!--<div class="bott-img">
+					<img src="{{asset('images/7.jpg')}}" width="163" height="200">
 						<div class="icon-holder">
 							<span class="glyphicon glyphicon-heart icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
 						<p class="description">Scelerisque Praesent</p>
-					</div>
+					</div>-->
 				</div>
 				<div class="col-sm-6 bottom-gds ">
-					<div class="bott-img">
-					<img src="{{asset('images/3_1.jpg')}}" width="163" height="200">
+					<!--<div class="bott-img">
+					<img src="{{asset('images/5.jpg')}}" width="163" height="200">
 						<div class="icon-holder">
 							<span class="glyphicon glyphicon-home icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
 						<p class="description">Scelerisque Praesent</p>
-					</div>
+					</div>-->
 				</div>
 				<div class="col-sm-6 bottom-gds ">
-					<div class="bott-img">
-					<img src="{{asset('images/3.jpg')}}" width="163" height="200">
+					<!--<div class="bott-img">
+					<img src="{{asset('images/pic1.jpg')}}" width="163" height="200">
 						<div class="icon-holder">
 							<span class="glyphicon glyphicon-star icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
 						<p class="description">Scelerisque Praesent</p>
+					</div>-->
+				</div>
+				<div class="clearfix"></div>
+
+			</div>
+			<!--<div class="col-md-7 about_right wow flipInY" data-wow-duration="1.5s" data-wow-delay="0.1s">
+				<div class="creative">
+				<h4><font color="#0000FF">Misión</font></h4>
+					<h5 style="text-align:justify;">“Desarrollar y promover los Sistemas Nacionales de Seguridad de Información, Certificación Electrónica y Gestión de Incidentes Telemáticos, como herramientas habilitadoras del desarrollo tecnológico nacional, favoreciendo la inclusión del soberano en los servicios de gobierno electrónico y fortaleciendo los Sistemas de Información de los Órganos y Entes del Poder Público Nacional”.</h5>
+					<br>
+					</br>
+					<h4><font color="#0000FF">Visión</font></h4>
+					<h5 style="text-align:justify;">“Ser reconocida nacional e internacionalmente como una Institución moderna que desarrolle, impulse y motive la transformación tecnológica del país, mediante el uso masivo de plataformas informáticas seguras, enmarcada dentro de la nueva ética socialista”.</h5>
+
+					<!--<div class="progress-gds">
+						<h5>Doloremque / 60%</h5>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
+
+							</div>
+						</div>
+						<h5>Laudantium / 45%</h5>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 45%;">
+							</div>
+						</div>
+						<h5>Perspiciatis / 15%</h5>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 15%;">
+							</div>-->
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<div id="about" class="banner-bottom">
+	<div class="container">
+		<h3 class="title">Resposabilidad Social<span></span></h3>
+		<div class="adt_grids">
+			<div class="col-md-5 about_left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0s">
+				<div class="col-sm-6 bottom-gds ">
+					<div class="bott-img">
+					<a href="{{asset('images/1_1.jpg')}}" class="swipebox"><img src="{{asset('images/1_1.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
+							<span class="glyphicon glyphicon-education icon" aria-hidden="true"></span>
+						</div>
+						<h4 class="mission">Design</h4>
+						<p class="description">Scelerisque Praesent</p>-->
+					</div>
+				</div>
+				<div class="col-sm-6 bottom-gds ">
+					<div class="bott-img">
+					<a href="{{asset('images/2_1.jpg')}}" class="swipebox"><img src="{{asset('images/2_1.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
+							<span class="glyphicon glyphicon-heart icon" aria-hidden="true"></span>
+						</div>
+						<h4 class="mission">Design</h4>
+						<p class="description">Scelerisque Praesent</p>-->
+					</div>
+				</div>
+				<div class="col-sm-6 bottom-gds ">
+					<div class="bott-img">
+					<a href="{{asset('images/3_1.jpg')}}" class="swipebox"><img src="{{asset('images/3_1.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
+							<span class="glyphicon glyphicon-home icon" aria-hidden="true"></span>
+						</div>
+						<h4 class="mission">Design</h4>
+						<p class="description">Scelerisque Praesent</p>-->
+					</div>
+				</div>
+				<div class="col-sm-6 bottom-gds ">
+					<div class="bott-img">
+					<a href="{{asset('images/3.jpg')}}" class="swipebox"><img src="{{asset('images/3.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
+							<span class="glyphicon glyphicon-star icon" aria-hidden="true"></span>
+						</div>
+						<h4 class="mission">Design</h4>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="clearfix"></div>
@@ -671,12 +780,12 @@ En este sentido SUSCERTE Involucra a diversos sectores de la vida nacional sob
 				<!--<p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac, 
 					suscipit nec mauris. Suspendisse commodo tempor sagittis</p>-->
 			</div>
-			<!--<div class="col-md-4 list-gds text-center wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.4s">
+			<div class="col-md-4 list-gds text-center wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.4s" id="clickeable" onclick="location.href='http://www.vencert.gob.ve';">
 				<span class="glyphicon glyphicon-folder-open icon" aria-hidden="true"></span>
-				<h4> Aliquampret</h4>
-				<p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac, 
-					suscipit nec mauris. Suspendisse commodo tempor sagittis</p>
-			</div>-->
+				<h4>Seguridad de la Información </h4>
+				<!--<p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac, 
+					suscipit nec mauris. Suspendisse commodo tempor sagittis</p>-->
+			</div>
 			<!--div class="col-md-4 list-gds text-center wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.5s">
 				<span class="glyphicon glyphicon-heart-empty icon" aria-hidden="true"></span>
 				<h4> Suspendisse</h4>
@@ -1003,7 +1112,7 @@ En este sentido SUSCERTE Involucra a diversos sectores de la vida nacional sob
 			<div class="clearfix"></div>
 		</div>
 		<div class="footer_top text-center">
-			<h2><a href="#home"><img src="{{asset('images/logosuscerte.png')}}" alt=" " height="200" width="200" /></a></h2>
+			<h2><a href="#home"><img src="{{asset('images/logosuscerte.png')}}" alt=" " height="300" width="400" /></a></h2>
 			<ul>
 				<li><a href="">Inicio</a></li>
 				<li><a href="#about" class="scroll">Quienes somos</a></li>
@@ -1015,11 +1124,11 @@ En este sentido SUSCERTE Involucra a diversos sectores de la vida nacional sob
 		<div class="copy_right text-center">
 			<!--<p> &copy; 2016 Deco Light. All Rights Reserved | Design by  <a href="http://w3layouts.com/"> W3layouts</a></p>-->
 			<ul class="fb_icons2">
-				<li><a class="fb" href="#"></a></li>
-				<li><a class="twit" href="#"></a></li>
-				<li><a class="goog" href="#"></a></li>
+				<li><a class="fb" href="https://www.facebook.com/suscerte"></a></li>
+				<li><a class="twit" href="https://twitter.com/suscerte"></a></li>
+				<!--<li><a class="goog" href="#"></a></li>
 				<li><a class="pin" href="#"></a></li>
-				<li><a class="drib" href="#"></a></li>
+				<li><a class="drib" href="#"></a></li>-->
 			</ul>
 		</div>
 	</div>
@@ -1046,4 +1155,4 @@ En este sentido SUSCERTE Involucra a diversos sectores de la vida nacional sob
 											<input type="password" name="Password" placeholder="Password" required="">
 											<i class="glyphicon glyphicon-lock"></i>
 										</div>
-										   <div class="news-letter ">
+										   <div class="news-letter ">

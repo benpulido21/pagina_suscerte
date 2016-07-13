@@ -62,14 +62,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<li><a href="#" data-toggle="modal" data-target="#myModal4">Login</a></li>
 				</ul>
 			</div>
-		</div>
+		</div>-->
 		<div class="header_left">
 			<ul class="fb_icons">
-				<li><a class="fb" href="#"></a></li>
-				<li><a class="twit" href="#"></a></li>
-				<li><a class="goog" href="#"></a></li>
+				<li><a class="fb" href="https://www.facebook.com/suscerte"></a></li>
+				<li><a class="twit" href="https://twitter.com/suscerte"></a></li>
+				<!--<li><a class="goog" href="#"></a></li>
 				<li><a class="pin" href="#"></a></li>
-				<li><a class="drib" href="#"></a></li>
+				<li><a class="drib" href="#"></a></li>-->
 			</ul>
 		</div>
 		<div class="clearfix"></div>
@@ -90,7 +90,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				  </button>
 					<div class="logo grid">
 						<div class="grid__item color-3">
-							<h1><a href=""><img src="{{asset('images/logosuscerte.png')}}" alt=" " width="100" height="100" /></a></h1>
+							<h1><a href=""><img src="{{asset('images/logosuscerte.png')}}" alt=" " width="300" height="300" /></a></h1>
 						</div>
 					</div>
 				</div>
@@ -179,22 +179,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-5 about_left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0s">
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/22.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/22.jpg')}}" class="swipebox"><img src="{{asset('images/22.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-education icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/23.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/23.jpg')}}" class="swipebox"><img src="{{asset('images/23.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-heart icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
@@ -261,12 +261,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-5 about_left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0s">
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/24.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/24.jpg')}}" class="swipebox"><img src="{{asset('images/24.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-education icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
@@ -339,12 +339,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="col-md-5 about_left wow flipInY" data-wow-duration="1.5s" data-wow-delay="0s">
 				<div class="col-sm-6 bottom-gds ">
 					<div class="bott-img">
-					<img src="{{asset('images/25.jpg')}}" width="163" height="200">
-						<div class="icon-holder">
+					<a href="{{asset('images/25.jpg')}}" class="swipebox"><img src="{{asset('images/25.jpg')}}" width="220" height="220"></a>
+						<!--<div class="icon-holder">
 							<span class="glyphicon glyphicon-education icon" aria-hidden="true"></span>
 						</div>
 						<h4 class="mission">Design</h4>
-						<p class="description">Scelerisque Praesent</p>
+						<p class="description">Scelerisque Praesent</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 bottom-gds ">
@@ -451,12 +451,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<!--<p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac, 
 					suscipit nec mauris. Suspendisse commodo tempor sagittis</p>-->
 			</div>
-			<!--<div class="col-md-4 list-gds text-center wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.4s">
+			<div class="col-md-4 list-gds text-center wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.4s" id="clickeable" onclick="location.href='http://www.vencert.gob.ve';">
 				<span class="glyphicon glyphicon-folder-open icon" aria-hidden="true"></span>
-				<h4> Aliquampret</h4>
-				<p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac, 
-					suscipit nec mauris. Suspendisse commodo tempor sagittis</p>
-			</div>-->
+				<h4> Seguridad de la Información</h4>
+				<!--<p>Nam aliquam pretium feugiat. Duis sem est, viverra eu interdum ac, 
+					suscipit nec mauris. Suspendisse commodo tempor sagittis</p>-->
+			</div>
 			<!--div class="col-md-4 list-gds text-center wow bounceInDown" data-wow-duration="1.5s" data-wow-delay="0.5s">
 				<span class="glyphicon glyphicon-heart-empty icon" aria-hidden="true"></span>
 				<h4> Suspendisse</h4>
