@@ -12,7 +12,7 @@ class AddNewsCategoriesTable extends Migration
      */
     public function up()
     {
-        Schema::create('news__categories', function (Blueprint $table) {
+        Schema::create('news__categorie', function (Blueprint $table) {
             $table->increments('id');
             $table->string('category');
             $table->timestamps();
