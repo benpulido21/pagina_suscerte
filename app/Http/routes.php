@@ -19,5 +19,10 @@ Route::get("home/acreditacion","HomeController@acreditacion");
 Route::get("home/registro","HomeController@registro");
 Route::get("home/estampado","HomeController@estampado");
 Route::get("home/forense","HomeController@forense");
+Route::get("home/noticiaid/{id}","HomeController@noticiaid");
+Route::get('home/noticias','HomeController@noticias');
+Route::get('home/noticias/{id}', 'HomeController@show')->where(['id' => '[0-9]+']);
+Route::get('home/biblioteca',"HomeController@biblioteca");
 
 
+		
